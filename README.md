@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# Walmart Sales Sales Analysis Using MySql
 
 ## About
 
